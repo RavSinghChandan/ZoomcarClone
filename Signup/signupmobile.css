@@ -1,0 +1,61 @@
+
+    #signup{
+        display: flex;
+        text-align: left;
+        margin-top: 50px;
+        margin-left: 360px;
+        gap: 20px;
+    }
+    #h1{
+        font-size: 20px;
+        box-sizing: border-box;
+       padding: 15px;
+       width: 45%;
+       border: 1px solid green;
+    }
+    h2{
+        text-align: left;
+        margin-top: 50px;
+        margin-left: 360px;
+    }
+    a{
+        text-align: left;
+        margin-top: 50px;
+        margin-left: 360px;
+    }
+    #image{
+     display: flex;
+     text-align: center;
+     border: 2px solid green;
+     height: 50px;
+     width:80px;
+     margin-top: 5px;
+
+ }
+ #image > div > h3{
+     margin-left: 10px;
+     margin-top: 5px;
+ }
+ #h2{
+     /* display: flex; */
+     width: 40%;
+     height: 50px;
+     margin-left: 350px;
+     margin-top: 400px;
+     text-align: center;
+     font-size: 20px;
+     color:white ; 
+     background-color: #e0e0e0; 
+   
+     border:none ;
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+ }
+ .greencolor{
+     background-color:#10a310;
+ }
+ #h2:hover {
+    background-color:#10a310;
+  }
+  
